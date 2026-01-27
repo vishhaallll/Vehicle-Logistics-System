@@ -4,9 +4,9 @@
 
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![Python](https://img.shields.io/badge/Tech-Python%203.12-blue.svg)]() 
-<img width="961" height="1041" alt="Screenshot 2026-01-27 173325" src="https://github.com/user-attachments/assets/ebaf9600-b0dd-4f58-9089-8ef8f79f8ee0" />
 
-<img width="960" height="1040" alt="Screenshot 2026-01-27 173302" src="https://github.com/user-attachments/assets/a54fb2d3-500e-41a3-9db1-fc2c436526c6" />
+
+
 
 > A specialized desktop application currently being built to streamline logistics operations.
 > *Goal:* To replace complex Excel workflows with a unified, automated dashboard for **3 pilot companies** testing the system.
@@ -14,7 +14,9 @@
 ---
 
 ## 📸 Current Progress (Work in Progress)
-![Dashboard Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)
+<img width="961" height="1041" alt="Screenshot 2026-01-27 173325" src="https://github.com/user-attachments/assets/ebaf9600-b0dd-4f58-9089-8ef8f79f8ee0" />
+<img width="960" height="1040" alt="Screenshot 2026-01-27 173302" src="https://github.com/user-attachments/assets/a54fb2d3-500e-41a3-9db1-fc2c436526c6" />
+
 *(Latest Dev Build v0.8 - Dashboard Interface)*
 
 ### Why I'm Building This
@@ -55,5 +57,5 @@ I am building this in public using a 100% Python stack:
 
 ## 📬 Follow the Dev Journey
 This project is active. I am pushing updates weekly as we refine the system for our pilot users.
-*   **Developer:** [vishhaallll]
+*   **Developer:** vishhaallll
 *   **Status:** Active.

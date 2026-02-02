@@ -30,6 +30,21 @@ I am building **Vehicle Logistics Pro** to solve this.
 *   **Data Entry:** Auto-complete forms that learn from previous entries (Zero Excel needed).
 *   **Theme Engine:** Fully functional Dark/Light mode toggle.
 *   **Basic Reports:** Daily shipment tracking.
+## 🚀 Key Features Implemented (Latest Update)
+
+### 1. Premium UI Experience ✨
+- **Statement Records**: A fully unified "Statement Records" view (formerly Shipment Records) with professional "Light Theme" styling.
+- **Whole Box Coverage**: Eliminated visual gaps by applying a unified `#ffffff` background to the entire container frame and table.
+- **Visual Polish**: High-readability styling with soft blue-grey striping (`#f4f7f9`) and professional dark grey typography (`#2d3436`).
+
+### 2. Advanced Analytics & Reporting 📊
+- **Party Stats Dashboard**: Real-time matrix view of vehicle performance and expenses.
+- **Deep Drill-Down**: Interactive "Statement Records" that allow detailed inspection of every transaction with site-aware context.
+- **Smart Filtering**: Added **Global Persistence** for Date Ranges—the app now "remembers" your last selected dates even after a full restart.
+
+### 3. Robust "Institution-Grade" Logic 🛡️
+- **Precise Targeting**: Update logic ensures data integrity by targeting specific sites/parties correctly (using `UPPER(TRIM())` matching).
+- **Safety First**: Implemented strict blank-value handling to prevent accidental bulk updates.
 
 **🚧 In Progress:**
 *   **Advanced Billing:** Automating GST invoice generation.
